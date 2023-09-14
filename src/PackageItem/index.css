@@ -1,0 +1,20 @@
+.package-item {
+  list-style-type: none;
+  width: 100%;
+  max-width: 420px;
+  margin-right: 10px;
+  background-color: #ffffff;
+  margin-bottom: 15px;
+}
+.package-thumbnail {
+  width: 100%;
+}
+.text-container {
+  padding: 15px;
+}
+.package-name {
+  margin: 0px;
+  font-size: 22px;
+  color: #475569;
+  font-weight: 500;
+}
